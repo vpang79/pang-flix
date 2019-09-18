@@ -1,1 +1,21 @@
 @import "bootstrap";
+
+.navbar {
+  box-shadow: 0px 2px 5px #2a2a2a;
+  border: solid 8px;
+  border-radius: 10px 40px 40px 10px;
+  font-family: Verdana, "Verdana Ref", sans-serif;
+  font-weight: 200;
+  background: image_url('circle-blues');
+}
+
+.navbar-inverse a.navbar-brand {
+  font-size: 160%;
+  font-family: Verdana, "Verdana Ref", sans-serif;
+  font-weight: 100;
+  color: white;
+}
+
+body {
+  font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
+}
