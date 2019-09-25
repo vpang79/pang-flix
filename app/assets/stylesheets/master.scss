@@ -84,3 +84,12 @@ h1, h2, h3, h4, h5, h6, .navbar {
 .form-actions {
  padding-bottom: 8px;
 }
+
+.invalid-feedback {
+  color: #ff3333;
+  background-color: #ffeeee;
+  border-radius: 3px;
+  padding: 2px 8px 2px 8px;
+  margin: 10px;
+  width: 350px;
+}
